@@ -1,0 +1,42 @@
+[
+  {
+    "descripcion": "Tarifa 0% (Exento)",
+    "value_xml": "01",
+    "tarifa": 0
+  },
+  {
+    "descripcion": "Tarifa Reducida 1%",
+    "value_xml": "02",
+    "tarifa": 1
+  },
+  {
+    "descripcion": "Tarifa Reducida 2%",
+    "value_xml": "03",
+    "tarifa": 2
+  },
+  {
+    "descripcion": "Tarifa reducida 4%",
+    "value_xml": "04",
+    "tarifa": 4
+  },
+  {
+    "descripcion": "Transitorio 0%",
+    "value_xml": "05",
+    "tarifa": 0
+  },
+  {
+    "descripcion": "Transitorio 4%",
+    "value_xml": "06",
+    "tarifa": 4
+  },
+  {
+    "descripcion": "Transitorio 8%",
+    "value_xml": "07",
+    "tarifa": 8
+  },
+  {
+    "descripcion": "Tarifa General 13%",
+    "value_xml": "08",
+    "tarifa": 13
+  }
+]

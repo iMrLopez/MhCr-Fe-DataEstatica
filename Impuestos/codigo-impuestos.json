@@ -1,0 +1,12 @@
+[
+  { "value": "01", "description": "Impuesto al valor agregado"},
+  { "value": "02", "description": "Impuesto Selectivo de Consumo" },
+  { "value": "03", "description": "Impuesto unico a los combustivos" },
+  { "value": "04", "description": "Impuesto especifico de bebidas alcohólicas" },
+  { "value": "05", "description": "impuesto especifico sobre las bebidas envasadas sin contenido alcoholico y jabones de tocador" },
+  { "value": "06", "description": "impuesto a los productos de tabaco" },
+  { "value": "07", "description": "IVA (cálculo especial)" },
+  { "value": "08", "description": "IVA Régimen de Bienes Usados (Factor)" },
+  { "value": "12", "description": "Impuesto Especifico al Cemento" },
+  { "value": "99", "description": "Otros" }
+]

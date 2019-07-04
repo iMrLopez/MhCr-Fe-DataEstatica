@@ -1,0 +1,350 @@
+[
+ {
+   "Simbolo": "Sp ",
+   "Descripcion": "Servicios Profesionales "
+ },
+ {
+   "Simbolo": "m ",
+   "Descripcion": "Metro "
+ },
+ {
+   "Simbolo": "kg ",
+   "Descripcion": "Kilogramo "
+ },
+ {
+   "Simbolo": "s ",
+   "Descripcion": "Segundo "
+ },
+ {
+   "Simbolo": "A ",
+   "Descripcion": "Ampere "
+ },
+ {
+   "Simbolo": "K ",
+   "Descripcion": "Kelvin "
+ },
+ {
+   "Simbolo": "mol ",
+   "Descripcion": "Mol "
+ },
+ {
+   "Simbolo": "cd ",
+   "Descripcion": "Candela "
+ },
+ {
+   "Simbolo": "m� ",
+   "Descripcion": "metro cuadrado "
+ },
+ {
+   "Simbolo": "m� ",
+   "Descripcion": "metro c�bico "
+ },
+ {
+   "Simbolo": "m/s ",
+   "Descripcion": "metro por segundo "
+ },
+ {
+   "Simbolo": "m/s� ",
+   "Descripcion": "metro por segundo cuadrado "
+ },
+ {
+   "Simbolo": "1/m ",
+   "Descripcion": "1 por metro "
+ },
+ {
+   "Simbolo": "kg/m� ",
+   "Descripcion": "kilogramo por metro c�bico "
+ },
+ {
+   "Simbolo": "A/m� ",
+   "Descripcion": "ampere por metro cuadrado "
+ },
+ {
+   "Simbolo": "A/m ",
+   "Descripcion": "ampere por metro "
+ },
+ {
+   "Simbolo": "mol/m� ",
+   "Descripcion": "mol por metro c�bico "
+ },
+ {
+   "Simbolo": "cd/m� ",
+   "Descripcion": "candela por metro cuadrado "
+ },
+ {
+   "Simbolo": "1",
+   "Descripcion": "uno (indice de refracci�n) "
+ },
+ {
+   "Simbolo": "rad ",
+   "Descripcion": "radi�n "
+ },
+ {
+   "Simbolo": "sr ",
+   "Descripcion": "estereorradi�n "
+ },
+ {
+   "Simbolo": "Hz ",
+   "Descripcion": "hertz "
+ },
+ {
+   "Simbolo": "N ",
+   "Descripcion": "newton "
+ },
+ {
+   "Simbolo": "Pa ",
+   "Descripcion": "pascal "
+ },
+ {
+   "Simbolo": "J ",
+   "Descripcion": "Joule "
+ },
+ {
+   "Simbolo": "W ",
+   "Descripcion": "Watt "
+ },
+ {
+   "Simbolo": "C ",
+   "Descripcion": "coulomb "
+ },
+ {
+   "Simbolo": "V ",
+   "Descripcion": "volt "
+ },
+ {
+   "Simbolo": "F ",
+   "Descripcion": "farad "
+ },
+ {
+   "Simbolo": "? ",
+   "Descripcion": "ohm "
+ },
+ {
+   "Simbolo": "S ",
+   "Descripcion": "siemens "
+ },
+ {
+   "Simbolo": "Wb ",
+   "Descripcion": "weber "
+ },
+ {
+   "Simbolo": "T ",
+   "Descripcion": "tesla "
+ },
+ {
+   "Simbolo": "H ",
+   "Descripcion": "henry "
+ },
+ {
+   "Simbolo": "�C ",
+   "Descripcion": "grado Celsius "
+ },
+ {
+   "Simbolo": "lm ",
+   "Descripcion": "lumen "
+ },
+ {
+   "Simbolo": "lx ",
+   "Descripcion": "lux "
+ },
+ {
+   "Simbolo": "Bq ",
+   "Descripcion": "Becquerel "
+ },
+ {
+   "Simbolo": "Gy ",
+   "Descripcion": "gray "
+ },
+ {
+   "Simbolo": "Sv ",
+   "Descripcion": "sievert "
+ },
+ {
+   "Simbolo": "kat ",
+   "Descripcion": "katal "
+ },
+ {
+   "Simbolo": "Pa�s ",
+   "Descripcion": "pascal segundo "
+ },
+ {
+   "Simbolo": "N�m ",
+   "Descripcion": "newton metro "
+ },
+ {
+   "Simbolo": "N/m ",
+   "Descripcion": "newton por metro "
+ },
+ {
+   "Simbolo": "rad/s ",
+   "Descripcion": "radi�n por segundo "
+ },
+ {
+   "Simbolo": "rad/s� ",
+   "Descripcion": "radi�n por segundo cuadrado "
+ },
+ {
+   "Simbolo": "W/m� ",
+   "Descripcion": "watt por metro cuadrado "
+ },
+ {
+   "Simbolo": "J/K ",
+   "Descripcion": "joule por kelvin "
+ },
+ {
+   "Simbolo": "J/(kg�K) ",
+   "Descripcion": "joule por kilogramo kelvin "
+ },
+ {
+   "Simbolo": "J/kg ",
+   "Descripcion": "joule por kilogramo "
+ },
+ {
+   "Simbolo": "W/(m�K) ",
+   "Descripcion": "watt por metro kevin "
+ },
+ {
+   "Simbolo": "J/m� ",
+   "Descripcion": "joule por metro c�bico "
+ },
+ {
+   "Simbolo": "V/m ",
+   "Descripcion": "volt por metro "
+ },
+ {
+   "Simbolo": "C/m� ",
+   "Descripcion": "coulomb por metro c�bico "
+ },
+ {
+   "Simbolo": "C/m� ",
+   "Descripcion": "coulomb por metro cuadrado "
+ },
+ {
+   "Simbolo": "F/m ",
+   "Descripcion": "farad por metro "
+ },
+ {
+   "Simbolo": "H/m ",
+   "Descripcion": "henry por metro "
+ },
+ {
+   "Simbolo": "J/mol ",
+   "Descripcion": "joule por mol "
+ },
+ {
+   "Simbolo": "J/(mol�K) ",
+   "Descripcion": "joule por mol kelvin "
+ },
+ {
+   "Simbolo": "C/kg ",
+   "Descripcion": "coulomb por kilogramo "
+ },
+ {
+   "Simbolo": "Gy/s ",
+   "Descripcion": "gray por segundo "
+ },
+ {
+   "Simbolo": "W/sr ",
+   "Descripcion": "watt por estereorradi�n "
+ },
+ {
+   "Simbolo": "W/(m��sr) ",
+   "Descripcion": "watt por metro cuadrado estereorradi�n "
+ },
+ {
+   "Simbolo": "kat/m� ",
+   "Descripcion": "katal por metro c�bico "
+ },
+ {
+   "Simbolo": "min ",
+   "Descripcion": "minuto "
+ },
+ {
+   "Simbolo": "h ",
+   "Descripcion": "hora "
+ },
+ {
+   "Simbolo": "d ",
+   "Descripcion": "d�a "
+ },
+ {
+   "Simbolo": "� ",
+   "Descripcion": "grado "
+ },
+ {
+   "Simbolo": "� ",
+   "Descripcion": "minuto "
+ },
+ {
+   "Simbolo": "�� ",
+   "Descripcion": "segundo "
+ },
+ {
+   "Simbolo": "L ",
+   "Descripcion": "litro "
+ },
+ {
+   "Simbolo": "t ",
+   "Descripcion": "tonelada "
+ },
+ {
+   "Simbolo": "Np ",
+   "Descripcion": "neper "
+ },
+ {
+   "Simbolo": "B ",
+   "Descripcion": "bel "
+ },
+ {
+   "Simbolo": "eV ",
+   "Descripcion": "electronvolt "
+ },
+ {
+   "Simbolo": "u ",
+   "Descripcion": "unidad de masa at�mica unificada "
+ },
+ {
+   "Simbolo": "ua ",
+   "Descripcion": "unidad astron�mica "
+ },
+ {
+   "Simbolo": "Unid ",
+   "Descripcion": "Unidad "
+ },
+ {
+   "Simbolo": "Gal ",
+   "Descripcion": "Gal�n "
+ },
+ {
+   "Simbolo": "g ",
+   "Descripcion": "Gramo "
+ },
+ {
+   "Simbolo": "Km ",
+   "Descripcion": "Kilometro "
+ },
+ {
+   "Simbolo": "ln ",
+   "Descripcion": "pulgada "
+ },
+ {
+   "Simbolo": "cm ",
+   "Descripcion": "cent�metro "
+ },
+ {
+   "Simbolo": "mL ",
+   "Descripcion": "mililitro "
+ },
+ {
+   "Simbolo": "mm ",
+   "Descripcion": "Mil�metro "
+ },
+ {
+   "Simbolo": "Oz ",
+   "Descripcion": "Onzas "
+ },
+ {
+   "Simbolo": "Otros ",
+   "Descripcion": "Se debe indicar la descripci�n de la medida a utilizar "
+ }
+]

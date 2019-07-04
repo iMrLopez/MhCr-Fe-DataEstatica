@@ -1,0 +1,8 @@
+[
+  { "value": "01", "detail": "Efectivo"},
+  { "value": "02", "detail": "Tarjeta"},
+  { "value": "03", "detail": "Cheque"},
+  { "value": "04", "detail": "Transferencia - depósito bancario"},
+  { "value": "05", "detail": "Recaudado por terceros"},
+  { "value": "99", "detail": "Otros"}
+]
